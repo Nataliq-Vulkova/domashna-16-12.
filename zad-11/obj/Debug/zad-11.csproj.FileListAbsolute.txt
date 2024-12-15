@@ -1,0 +1,7 @@
+C:\Users\Admin\Desktop\Nataliq 9a\domashna-16.12\zad-11\bin\Debug\zad-11.exe.config
+C:\Users\Admin\Desktop\Nataliq 9a\domashna-16.12\zad-11\bin\Debug\zad-11.exe
+C:\Users\Admin\Desktop\Nataliq 9a\domashna-16.12\zad-11\bin\Debug\zad-11.pdb
+C:\Users\Admin\Desktop\Nataliq 9a\domashna-16.12\zad-11\obj\Debug\zad-11.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\Nataliq 9a\domashna-16.12\zad-11\obj\Debug\zad-11.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Nataliq 9a\domashna-16.12\zad-11\obj\Debug\zad-11.exe
+C:\Users\Admin\Desktop\Nataliq 9a\domashna-16.12\zad-11\obj\Debug\zad-11.pdb
